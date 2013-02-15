@@ -1,0 +1,44 @@
+::-moz-selection {
+	background-color: #0088CC;
+	color : white;
+}
+
+::selection {
+	background-color: #0088CC;
+	color : white;
+}
+
+body {
+	margin : 0;
+	padding : 0;
+}
+
+div.content {
+	margin : 10px;
+	width : 90%;
+}
+
+h3 {
+	border-bottom: 1px solid #0088CC;
+	color: #333333;
+	padding: 0 0 5px 10px;
+	width: 90%;
+}
+
+textarea:focus {
+	border: 1px solid #0088CC;
+}
+
+textarea {
+	border: 1px solid #D5D5D5;
+	box-shadow: 0 0 3px #D5D5D5;
+	padding: 4px;
+	width : 70%;
+	margin: 0 0 0 20px;
+	background-color: #F5F5F5;
+}
+
+input[type="submit"] {
+  border: medium none;
+	padding: 3px 25px;
+}

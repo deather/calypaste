@@ -1,0 +1,28 @@
+ul.code {
+    line-height: 12pt;
+    list-style: decimal outside none;
+    margin: 0;
+    padding: 0;
+		font-family : monospace;
+}
+
+ul.code li {
+    line-height: 12pt;
+		margin: 0 0 0 25px;
+}
+
+ul.code li.pair {
+	background-color : #F5F5F5;
+}
+
+ul.code li pre {
+	margin : 0;
+	display : inline-block;
+}
+
+.displayer {
+	padding: 0 0 0 20px;
+	width : 80%;
+	border: 1px solid #555555;
+	margin: 20px 0 50px 20px;
+}

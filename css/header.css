@@ -1,0 +1,26 @@
+.header {
+  background-color: #333333;
+  border-bottom: 5px solid #0088CC !important;
+  height: 75px;
+  margin-bottom: 10px;
+	color : white;
+}
+
+.title {
+	display: inline-block;
+	font-size: 20pt;
+	font-weight: 700;
+	margin: 5px;
+	color: white;
+}
+
+
+.connection {
+  display: inline-block;
+  float: right;
+  height: 75px;
+  line-height: 115px;
+  margin: 0 10px 0 0;
+  max-height: 75px;
+	font-family : monospace;
+}
